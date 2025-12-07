@@ -208,3 +208,10 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Python 3.10+, ROS 2 Humble (LTS) + `rclpy` (ROS 2), `isaac-sim` (Python bindings), `openai` (VLA API) (001-physical-ai-book)
+- Filesystem (Markdown + Python scripts) (001-physical-ai-book)
+
+## Recent Changes
+- 001-physical-ai-book: Added Python 3.10+, ROS 2 Humble (LTS) + `rclpy` (ROS 2), `isaac-sim` (Python bindings), `openai` (VLA API)
